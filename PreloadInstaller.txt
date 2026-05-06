@@ -1,0 +1,95 @@
+05-23 16:57:11.343 : 
+05-23 16:57:11.346 : !@mIsUpgrade : true, mIsFirstBoot : false, mFingerprint : samsung/a04ub/a04:14/UP1A.231005.007/A045MUBSAEYA1:user/release-keys
+05-23 16:57:11.348 : loadInstallHistory() : com.facebook.katana;
+05-23 16:57:11.350 : persist.sys.storage_preload : 2
+05-23 16:57:11.350 : fota - mount hidden area using persist values.
+05-23 16:57:12.358 : cscCode : ARO
+05-23 16:57:12.377 : Facebook_stub_preload.apk is Added on mInstallPackageList
+05-23 16:57:12.397 : fin
+05-23 16:57:12.404 : [CONFIRMED INSTALLING LIST]
+05-23 16:57:12.404 : TO INSTALL :: /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk
+05-23 16:57:12.411 : !@INSTALL ------------------ Facebook_stub_preload.apk
+05-23 16:57:12.419 : Write : Facebook_stub_preload.apk
+05-23 16:57:12.433 : Write Done :14ms
+05-23 16:57:12.454 : FAIL install, /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk, msg = INSTALL_FAILED_VERSION_DOWNGRADE: Downgrade detected: Update version code 1 is older than current 461627739
+05-23 16:57:12.455 : installPreloadPackageList() --------------------- COMPLETE
+05-23 16:57:12.456 : omcEtcPath : /prism/etc/carriers/single/ARO/uninstall_preloadpkg.lst
+05-23 16:57:12.459 : Set package state to disabled
+05-23 16:57:12.460 : Waiting for cache flush...
+05-23 16:57:13.468 : !@setDisabled() is FINISHED
+08-03 14:04:59.114 : 
+08-03 14:04:59.116 : !@mIsUpgrade : true, mIsFirstBoot : false, mFingerprint : samsung/a04ub/a04:14/UP1A.231005.007/A045MUBSBEYD2:user/release-keys
+08-03 14:04:59.119 : loadInstallHistory() : com.facebook.katana;
+08-03 14:04:59.121 : persist.sys.storage_preload : 2
+08-03 14:04:59.121 : fota - mount hidden area using persist values.
+08-03 14:05:00.125 : cscCode : ARO
+08-03 14:05:00.139 : Facebook_stub_preload.apk is Added on mInstallPackageList
+08-03 14:05:00.154 : fin
+08-03 14:05:00.162 : [CONFIRMED INSTALLING LIST]
+08-03 14:05:00.163 : TO INSTALL :: /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk
+08-03 14:05:00.171 : !@INSTALL ------------------ Facebook_stub_preload.apk
+08-03 14:05:00.179 : Write : Facebook_stub_preload.apk
+08-03 14:05:00.187 : Write Done :8ms
+08-03 14:05:00.841 : FAIL install, /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk, msg = INSTALL_FAILED_VERSION_DOWNGRADE: Downgrade detected: Update version code 1 is older than current 463813471
+08-03 14:05:00.841 : installPreloadPackageList() --------------------- COMPLETE
+08-03 14:05:00.842 : omcEtcPath : /prism/etc/carriers/single/ARO/uninstall_preloadpkg.lst
+08-03 14:05:00.845 : Set package state to disabled
+08-03 14:05:00.846 : Waiting for cache flush...
+08-03 14:05:01.853 : !@setDisabled() is FINISHED
+11-26 02:12:05.793 : 
+11-26 02:12:05.795 : !@mIsUpgrade : true, mIsFirstBoot : false, mFingerprint : samsung/a04ub/a04:14/UP1A.231005.007/A045MUBSCEYF1:user/release-keys
+11-26 02:12:05.797 : loadInstallHistory() : com.facebook.katana;
+11-26 02:12:05.804 : persist.sys.storage_preload : 2
+11-26 02:12:05.805 : fota - mount hidden area using persist values.
+11-26 02:12:06.839 : cscCode : ARO
+11-26 02:12:06.851 : Facebook_stub_preload.apk is Added on mInstallPackageList
+11-26 02:12:06.866 : fin
+11-26 02:12:06.873 : [CONFIRMED INSTALLING LIST]
+11-26 02:12:06.873 : TO INSTALL :: /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk
+11-26 02:12:06.881 : !@INSTALL ------------------ Facebook_stub_preload.apk
+11-26 02:12:06.889 : Write : Facebook_stub_preload.apk
+11-26 02:12:06.960 : Write Done :71ms
+11-26 02:12:06.984 : FAIL install, /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk, msg = INSTALL_FAILED_VERSION_DOWNGRADE: Downgrade detected: Update version code 1 is older than current 467016882
+11-26 02:12:06.984 : installPreloadPackageList() --------------------- COMPLETE
+11-26 02:12:06.985 : omcEtcPath : /prism/etc/carriers/single/ARO/uninstall_preloadpkg.lst
+11-26 02:12:07.003 : Set package state to disabled
+11-26 02:12:07.004 : Waiting for cache flush...
+11-26 02:12:08.054 : !@setDisabled() is FINISHED
+02-08 02:11:07.319 : 
+02-08 02:11:07.322 : !@mIsUpgrade : true, mIsFirstBoot : false, mFingerprint : samsung/a04ub/a04:14/UP1A.231005.007/A045MUBSDEYJ1:user/release-keys
+02-08 02:11:07.324 : loadInstallHistory() : com.facebook.katana;
+02-08 02:11:07.327 : persist.sys.storage_preload : 2
+02-08 02:11:07.327 : fota - mount hidden area using persist values.
+02-08 02:11:08.371 : cscCode : ARO
+02-08 02:11:08.395 : Facebook_stub_preload.apk is Added on mInstallPackageList
+02-08 02:11:08.411 : fin
+02-08 02:11:08.419 : [CONFIRMED INSTALLING LIST]
+02-08 02:11:08.420 : TO INSTALL :: /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk
+02-08 02:11:08.429 : !@INSTALL ------------------ Facebook_stub_preload.apk
+02-08 02:11:08.437 : Write : Facebook_stub_preload.apk
+02-08 02:11:08.602 : Write Done :165ms
+02-08 02:11:08.660 : FAIL install, /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk, msg = INSTALL_FAILED_VERSION_DOWNGRADE: Downgrade detected: Update version code 1 is older than current 468415488
+02-08 02:11:08.660 : installPreloadPackageList() --------------------- COMPLETE
+02-08 02:11:08.661 : omcEtcPath : /prism/etc/carriers/single/ARO/uninstall_preloadpkg.lst
+02-08 02:11:08.708 : Set package state to disabled
+02-08 02:11:08.709 : Waiting for cache flush...
+02-08 02:11:09.762 : !@setDisabled() is FINISHED
+03-24 14:59:02.806 : 
+03-24 14:59:02.808 : !@mIsUpgrade : true, mIsFirstBoot : false, mFingerprint : samsung/a04ub/a04:14/UP1A.231005.007/A045MUBSEEZA1:user/release-keys
+03-24 14:59:02.813 : loadInstallHistory() : com.facebook.katana;
+03-24 14:59:02.816 : persist.sys.storage_preload : 2
+03-24 14:59:02.817 : fota - mount hidden area using persist values.
+03-24 14:59:03.863 : cscCode : ARO
+03-24 14:59:03.880 : Facebook_stub_preload.apk is Added on mInstallPackageList
+03-24 14:59:03.893 : fin
+03-24 14:59:03.900 : [CONFIRMED INSTALLING LIST]
+03-24 14:59:03.901 : TO INSTALL :: /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk
+03-24 14:59:03.908 : !@INSTALL ------------------ Facebook_stub_preload.apk
+03-24 14:59:03.915 : Write : Facebook_stub_preload.apk
+03-24 14:59:03.978 : Write Done :63ms
+03-24 14:59:04.003 : FAIL install, /system/preload/Facebook_stub_preload/Facebook_stub_preload.apk, msg = INSTALL_FAILED_VERSION_DOWNGRADE: Downgrade detected: Update version code 1 is older than current 469616360
+03-24 14:59:04.004 : installPreloadPackageList() --------------------- COMPLETE
+03-24 14:59:04.004 : omcEtcPath : /prism/etc/carriers/single/ARO/uninstall_preloadpkg.lst
+03-24 14:59:04.034 : Set package state to disabled
+03-24 14:59:04.035 : Waiting for cache flush...
+03-24 14:59:05.135 : !@setDisabled() is FINISHED

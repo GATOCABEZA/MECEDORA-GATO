@@ -1,0 +1,36 @@
+2026-05-06 05:26:07.841-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:102)] set_CSC_version
+2026-05-06 05:26:07.843-03:00 I/CscParser: [onStartCommand(CscUpdateService.java:106)] getSWConfigPath : omc SW_Configuration file can read
+2026-05-06 05:26:07.845-03:00 D/CscParser: [m(CscParser.java:41)] update(): /prism/etc/SW_Configuration.xml file exist
+2026-05-06 05:26:07.944-03:00 I/CscUtil: [t(CscUtil.java:46)] isWifiOnly = false
+2026-05-06 05:26:07.955-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:135)] PATH_CSCNAME =CustomerDataSet.CSCName
+2026-05-06 05:26:07.988-03:00 I/CscUtil: [D(CscUtil.java:38)] checkChameleonStr : null
+2026-05-06 05:26:07.993-03:00 I/CscUtil: [k(CscUtil.java:21)] isCscUpdated userid : 0
+2026-05-06 05:26:07.996-03:00 I/CscUtil: [k(CscUtil.java:60)] isCscUpdated : true
+2026-05-06 05:26:07.999-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:179)] normal boot
+2026-05-06 05:26:08.040-03:00 I/CscUtil: [d(CscUtil.java:7)] getCscUpdated
+2026-05-06 05:26:08.043-03:00 I/CscUtil: [r(CscUtil.java:25)] Previous SalesCode : ARO
+2026-05-06 05:26:08.050-03:00 I/CscUtil: [r(CscUtil.java:42)] Current SalesCode : ARO
+2026-05-06 05:26:08.057-03:00 I/CscUtil: [e(CscUtil.java:5)] getOmcInstall
+2026-05-06 05:26:08.064-03:00 I/CscUtil: [f(CscUtil.java:5)] getOmcMount
+2026-05-06 05:26:08.067-03:00 I/CscUtil: [f(CscUtil.java:5)] getOmcMount
+2026-05-06 05:26:08.069-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:218)] This is normal boot : CSC not update
+2026-05-06 05:26:09.000-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:243)] same CSC Version
+2026-05-06 05:26:09.002-03:00 D/CscFileLog: [l(CscFileLog.java:18)] stop logging: prev
+2026-05-06 05:26:09.004-03:00 I/CscFileLog: [m(CscFileLog.java:17)] trace FT values: 0
+2026-05-06 05:26:09.009-03:00 D/CscFileLog: [m(CscFileLog.java:108)] 30000DE.noisreV0TF
+2026-05-06 05:26:09.012-03:00 D/CscFileLog: [m(CscFileLog.java:108)] 2SDU.serutaeFbuSgifnoC_reganaMtramS0TF
+2026-05-06 05:26:09.015-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.llaCoediVouDtroppuS_tcatnoC0TF
+2026-05-06 05:26:09.017-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.llaCddAtroppuS_TV0TF
+2026-05-06 05:26:09.019-03:00 D/CscFileLog: [m(CscFileLog.java:108)] ORA.edoCselaS0TF
+2026-05-06 05:26:09.022-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.nOtluafeDrmabW_LIR0TF
+2026-05-06 05:26:09.024-03:00 D/CscFileLog: [m(CscFileLog.java:108)] ESLAF.misEtroppuS_LIR0TF
+2026-05-06 05:26:09.027-03:00 D/CscFileLog: [m(CscFileLog.java:108)] nital_remialcsid,uneMyBdewollAgnidroceR.gnidroceRgifnoC_llaCecioV0TF
+2026-05-06 05:26:09.029-03:00 D/CscFileLog: [m(CscFileLog.java:108)] zh05.rekcilFaremaC_aremaC0TF
+2026-05-06 05:26:09.031-03:00 D/CscFileLog: [m(CscFileLog.java:108)] ffo,segapetihw,segapetihw.rebmuNnwonknUroFredivorPcvSgifnoC_nommoC0TF
+2026-05-06 05:26:09.034-03:00 D/CscFileLog: [m(CscFileLog.java:108)] 441/227_goLpikS.sgoLroFelytSpOgifnoC_llaCecioV0TF
+2026-05-06 05:26:09.036-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.miSotuAhtiWtigiDgnihctaMdIrellaCnyDelbanE_tcatnoC0TF
+2026-05-06 05:26:09.038-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.egreMtroppuS_TV0TF
+2026-05-06 05:26:09.041-03:00 D/CscFileLog: [m(CscFileLog.java:108)] ANITNEGRA.yrtnuoC0TF
+2026-05-06 05:26:09.044-03:00 D/CscFileLog: [m(CscFileLog.java:108)] RA.OSIyrtnuoC0TF
+2026-05-06 05:26:09.048-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.draziWputeSroFpikSkcolBtroppuS_ifiW0TF
+2026-05-06 05:26:09.053-03:00 I/CscFileLog: [h(CscFileLog.java:51)] CSC versionName : 1.0.1.0

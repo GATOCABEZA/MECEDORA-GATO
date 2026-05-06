@@ -1,0 +1,139 @@
+05-05 09:57:35.490 ShutdownThread: !@beginShutdownSequence
+05-05 09:57:35.597 ShutdownThread: !@Shutdown animation will start
+05-05 09:57:35.733 ShutdownThread: !@Sending shutdown broadcast...
+05-05 09:57:38.180 ShutdownThread: !@Shutting down activity manager...
+05-05 09:57:38.917 ShutdownThread: !@Shutting down package manager...
+05-05 09:57:38.968 ShutdownThread: !@Start shutdown radios
+05-05 09:57:38.988 ShutdownThread: Waiting for Radio...
+05-05 09:57:38.989 ShutdownThread: !@before sleep
+05-05 09:57:39.091 ShutdownThread: !@after sleep
+05-05 09:57:39.092 ShutdownThread: !@[Phone off retry:149440631] : 149452506 radio=false
+05-05 09:57:39.093 ShutdownThread: !@before sleep
+05-05 09:57:39.195 ShutdownThread: !@after sleep
+05-05 09:57:39.196 ShutdownThread: !@[Phone off retry:149440736] : 149452506 radio=false
+05-05 09:57:39.198 ShutdownThread: !@before sleep
+05-05 09:57:39.299 ShutdownThread: !@after sleep
+05-05 09:57:39.301 ShutdownThread: !@[Phone off retry:149440840] : 149452506 radio=false
+05-05 09:57:39.303 ShutdownThread: !@before sleep
+05-05 09:57:39.404 ShutdownThread: !@after sleep
+05-05 09:57:39.406 ShutdownThread: !@[Phone off retry:149440946] : 149452506 radio=false
+05-05 09:57:39.408 ShutdownThread: !@before sleep
+05-05 09:57:39.509 ShutdownThread: !@after sleep
+05-05 09:57:39.511 ShutdownThread: !@[Phone off retry:149441050] : 149452506 radio=false
+05-05 09:57:39.513 ShutdownThread: !@before sleep
+05-05 09:57:39.614 ShutdownThread: !@after sleep
+05-05 09:57:39.615 ShutdownThread: !@[Phone off retry:149441155] : 149452506 radio=false
+05-05 09:57:39.618 ShutdownThread: !@before sleep
+05-05 09:57:39.719 ShutdownThread: !@after sleep
+05-05 09:57:39.720 ShutdownThread: !@[Phone off retry:149441260] : 149452506 radio=false
+05-05 09:57:39.723 ShutdownThread: !@before sleep
+05-05 09:57:39.824 ShutdownThread: !@after sleep
+05-05 09:57:39.825 ShutdownThread: !@[Phone off retry:149441365] : 149452506 radio=false
+05-05 09:57:39.828 ShutdownThread: !@before sleep
+05-05 09:57:39.930 ShutdownThread: !@after sleep
+05-05 09:57:39.932 ShutdownThread: !@[Phone off retry:149441471] : 149452506 radio=false
+05-05 09:57:39.934 ShutdownThread: !@before sleep
+05-05 09:57:40.035 ShutdownThread: !@after sleep
+05-05 09:57:40.036 ShutdownThread: !@[Phone off retry:149441576] : 149452506 radio=false
+05-05 09:57:40.038 ShutdownThread: !@before sleep
+05-05 09:57:40.139 ShutdownThread: !@after sleep
+05-05 09:57:40.140 ShutdownThread: !@[Phone off retry:149441680] : 149452506 radio=false
+05-05 09:57:40.141 ShutdownThread: !@before sleep
+05-05 09:57:40.243 ShutdownThread: !@after sleep
+05-05 09:57:40.244 ShutdownThread: !@[Phone off retry:149441784] : 149452506 radio=false
+05-05 09:57:40.246 ShutdownThread: !@before sleep
+05-05 09:57:40.348 ShutdownThread: !@after sleep
+05-05 09:57:40.349 ShutdownThread: !@[Phone off retry:149441888] : 149452506 radio=false
+05-05 09:57:40.351 ShutdownThread: !@before sleep
+05-05 09:57:40.452 ShutdownThread: !@after sleep
+05-05 09:57:40.453 ShutdownThread: !@[Phone off retry:149441993] : 149452506 radio=false
+05-05 09:57:40.457 ShutdownThread: !@before sleep
+05-05 09:57:40.558 ShutdownThread: !@after sleep
+05-05 09:57:40.560 ShutdownThread: !@[Phone off retry:149442099] : 149452506 radio=false
+05-05 09:57:40.562 ShutdownThread: !@before sleep
+05-05 09:57:40.664 ShutdownThread: !@after sleep
+05-05 09:57:40.665 ShutdownThread: !@[Phone off retry:149442205] : 149452506 radio=false
+05-05 09:57:40.667 ShutdownThread: !@before sleep
+05-05 09:57:40.769 ShutdownThread: !@after sleep
+05-05 09:57:40.770 ShutdownThread: !@[Phone off retry:149442309] : 149452506 radio=false
+05-05 09:57:40.772 ShutdownThread: !@before sleep
+05-05 09:57:40.874 ShutdownThread: !@after sleep
+05-05 09:57:40.875 ShutdownThread: !@[Phone off retry:149442415] : 149452506 radio=false
+05-05 09:57:40.877 ShutdownThread: !@before sleep
+05-05 09:57:40.980 ShutdownThread: !@after sleep
+05-05 09:57:40.981 ShutdownThread: !@[Phone off retry:149442520] : 149452506 radio=false
+05-05 09:57:40.983 ShutdownThread: !@before sleep
+05-05 09:57:41.085 ShutdownThread: !@after sleep
+05-05 09:57:41.087 ShutdownThread: !@[Phone off retry:149442626] : 149452506 radio=false
+05-05 09:57:41.089 ShutdownThread: !@before sleep
+05-05 09:57:41.191 ShutdownThread: !@after sleep
+05-05 09:57:41.192 ShutdownThread: !@[Phone off retry:149442732] : 149452506 radio=false
+05-05 09:57:41.194 ShutdownThread: !@before sleep
+05-05 09:57:41.295 ShutdownThread: !@after sleep
+05-05 09:57:41.297 ShutdownThread: !@[Phone off retry:149442836] : 149452506 radio=false
+05-05 09:57:41.298 ShutdownThread: !@before sleep
+05-05 09:57:41.400 ShutdownThread: !@after sleep
+05-05 09:57:41.401 ShutdownThread: !@[Phone off retry:149442941] : 149452506 radio=false
+05-05 09:57:41.404 ShutdownThread: !@before sleep
+05-05 09:57:41.507 ShutdownThread: !@after sleep
+05-05 09:57:41.508 ShutdownThread: !@[Phone off retry:149443048] : 149452506 radio=false
+05-05 09:57:41.511 ShutdownThread: !@before sleep
+05-05 09:57:41.612 ShutdownThread: !@after sleep
+05-05 09:57:41.614 ShutdownThread: !@[Phone off retry:149443153] : 149452506 radio=false
+05-05 09:57:41.616 ShutdownThread: !@before sleep
+05-05 09:57:41.718 ShutdownThread: !@after sleep
+05-05 09:57:41.719 ShutdownThread: !@[Phone off retry:149443258] : 149452506 radio=false
+05-05 09:57:41.721 ShutdownThread: !@before sleep
+05-05 09:57:41.822 ShutdownThread: !@after sleep
+05-05 09:57:41.823 ShutdownThread: !@[Phone off retry:149443363] : 149452506 radio=false
+05-05 09:57:41.824 ShutdownThread: !@before sleep
+05-05 09:57:41.926 ShutdownThread: !@after sleep
+05-05 09:57:41.927 ShutdownThread: !@[Phone off retry:149443467] : 149452506 radio=false
+05-05 09:57:41.929 ShutdownThread: !@before sleep
+05-05 09:57:42.031 ShutdownThread: !@after sleep
+05-05 09:57:42.032 ShutdownThread: !@[Phone off retry:149443572] : 149452506 radio=false
+05-05 09:57:42.034 ShutdownThread: !@before sleep
+05-05 09:57:42.135 ShutdownThread: !@after sleep
+05-05 09:57:42.135 ShutdownThread: !@[Phone off retry:149443675] : 149452506 radio=false
+05-05 09:57:42.137 ShutdownThread: !@before sleep
+05-05 09:57:42.238 ShutdownThread: !@after sleep
+05-05 09:57:42.239 ShutdownThread: !@[Phone off retry:149443779] : 149452506 radio=false
+05-05 09:57:42.240 ShutdownThread: !@before sleep
+05-05 09:57:42.341 ShutdownThread: !@after sleep
+05-05 09:57:42.343 ShutdownThread: !@[Phone off retry:149443882] : 149452506 radio=false
+05-05 09:57:42.345 ShutdownThread: !@before sleep
+05-05 09:57:42.446 ShutdownThread: !@after sleep
+05-05 09:57:42.447 ShutdownThread: !@[Phone off retry:149443987] : 149452506 radio=false
+05-05 09:57:42.449 ShutdownThread: !@before sleep
+05-05 09:57:42.553 ShutdownThread: !@after sleep
+05-05 09:57:42.554 ShutdownThread: !@[Phone off retry:149444094] : 149452506 radio=false
+05-05 09:57:42.556 ShutdownThread: !@before sleep
+05-05 09:57:42.657 ShutdownThread: !@after sleep
+05-05 09:57:42.659 ShutdownThread: !@[Phone off retry:149444198] : 149452506 radio=false
+05-05 09:57:42.661 ShutdownThread: !@before sleep
+05-05 09:57:42.762 ShutdownThread: !@after sleep
+05-05 09:57:42.763 ShutdownThread: !@[Phone off retry:149444303] : 149452506 radio=false
+05-05 09:57:42.766 ShutdownThread: !@before sleep
+05-05 09:57:42.867 ShutdownThread: !@after sleep
+05-05 09:57:42.868 ShutdownThread: !@[Phone off retry:149444408] : 149452506 radio=false
+05-05 09:57:42.870 ShutdownThread: !@before sleep
+05-05 09:57:42.972 ShutdownThread: !@after sleep
+05-05 09:57:42.972 ShutdownThread: !@[Phone off retry:149444512] : 149452506 radio=false
+05-05 09:57:42.974 ShutdownThread: !@before sleep
+05-05 09:57:43.076 ShutdownThread: !@after sleep
+05-05 09:57:43.077 ShutdownThread: !@[Phone off retry:149444617] : 149452506 radio=false
+05-05 09:57:43.079 ShutdownThread: !@before sleep
+05-05 09:57:43.181 ShutdownThread: !@after sleep
+05-05 09:57:43.181 ShutdownThread: !@[Phone off retry:149444721] : 149452506 radio=false
+05-05 09:57:43.183 ShutdownThread: !@before sleep
+05-05 09:57:43.285 ShutdownThread: !@after sleep
+05-05 09:57:43.286 ShutdownThread: !@[Phone off retry:149444826] : 149452506 radio=false
+05-05 09:57:43.287 ShutdownThread: !@before sleep
+05-05 09:57:43.388 ShutdownThread: !@after sleep
+05-05 09:57:43.389 ShutdownThread: !@[Phone off retry:149444929] : 149452506 radio=false
+05-05 09:57:43.393 ShutdownThread: !@Radio turned off.
+05-05 09:57:43.394 ShutdownThread: !@Radio shutdown complete.
+05-05 09:57:43.395 ShutdownThread: !@waitForAnimEnd
+05-05 09:57:43.396 ShutdownThread: !@wait for QMG animation end
+05-05 09:57:43.396 ShutdownThread: !@run, shutdown requested reason=userrequested
+05-05 09:57:43.903 ShutdownThread: !@Performing low-level shutdown...

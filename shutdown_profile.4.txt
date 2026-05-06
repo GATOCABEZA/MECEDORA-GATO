@@ -1,0 +1,19 @@
+05-05 16:14:35.649 ShutdownThread: !@beginShutdownSequence
+05-05 16:14:35.698 ShutdownThread: !@Shutdown animation will start
+05-05 16:14:35.863 ShutdownThread: !@Sending shutdown broadcast...
+05-05 16:14:37.821 ShutdownThread: !@Shutting down activity manager...
+05-05 16:14:39.402 ShutdownThread: !@Shutting down package manager...
+05-05 16:14:39.462 ShutdownThread: !@Start shutdown radios
+05-05 16:14:39.477 ShutdownThread: Waiting for Radio...
+05-05 16:14:39.478 ShutdownThread: !@before sleep
+05-05 16:14:39.579 ShutdownThread: !@after sleep
+05-05 16:14:39.580 ShutdownThread: !@[Phone off retry:17654842] : 17666723 radio=false
+05-05 16:14:39.582 ShutdownThread: !@before sleep
+05-05 16:14:39.683 ShutdownThread: !@after sleep
+05-05 16:14:39.683 ShutdownThread: !@[Phone off retry:17654946] : 17666723 radio=false
+05-05 16:14:39.687 ShutdownThread: !@Radio turned off.
+05-05 16:14:39.689 ShutdownThread: !@Radio shutdown complete.
+05-05 16:14:39.690 ShutdownThread: !@waitForAnimEnd
+05-05 16:14:39.691 ShutdownThread: !@wait for QMG animation end
+05-05 16:14:39.692 ShutdownThread: !@run, shutdown requested reason=no power
+05-05 16:14:40.198 ShutdownThread: !@Performing low-level shutdown...

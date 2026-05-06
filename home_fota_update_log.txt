@@ -1,0 +1,249 @@
+2026-03-24 14:59:17.255-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:102)] set_CSC_version
+2026-03-24 14:59:17.257-03:00 I/CscParser: [onStartCommand(CscUpdateService.java:106)] getSWConfigPath : omc SW_Configuration file can read
+2026-03-24 14:59:17.267-03:00 D/CscParser: [m(CscParser.java:41)] update(): /prism/etc/SW_Configuration.xml file exist
+2026-03-24 14:59:17.288-03:00 I/CscUtil: [t(CscUtil.java:46)] isWifiOnly = false
+2026-03-24 14:59:17.305-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:135)] PATH_CSCNAME =CustomerDataSet.CSCName
+2026-03-24 14:59:17.313-03:00 I/CscUtil: [D(CscUtil.java:38)] checkChameleonStr : null
+2026-03-24 14:59:17.317-03:00 I/CscUtil: [k(CscUtil.java:21)] isCscUpdated userid : 0
+2026-03-24 14:59:17.319-03:00 I/CscUtil: [k(CscUtil.java:60)] isCscUpdated : true
+2026-03-24 14:59:17.321-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:179)] normal boot
+2026-03-24 14:59:17.354-03:00 D/CscUtil: [onStartCommand(CscUpdateService.java:184)] isNewCscVersion : true
+2026-03-24 14:59:17.356-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:185)] isNewCscVersion : true, setCscUpdated before homefota update
+2026-03-24 14:59:17.357-03:00 I/CscUtil: [x(CscUtil.java:5)] setCscUpdated
+2026-03-24 14:59:17.363-03:00 I/CscUtil: [x(CscUtil.java:50)] setCscUpdated userId : 0
+2026-03-24 14:59:17.366-03:00 I/CscUtil: [x(CscUtil.java:92)] else!!! setCscUpdated userId : 
+2026-03-24 14:59:17.549-03:00 I/CscUtil: [x(CscUtil.java:114)] set persist.sys.prev_salescode : ARO
+2026-03-24 14:59:17.552-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:188)] OMC model. call setOmcNwCodeUpdated() in advance.
+2026-03-24 14:59:17.553-03:00 I/CscUtil: [z(CscUtil.java:5)] setOmcNwCodeUpdated
+2026-03-24 14:59:17.857-03:00 I/CscUtil: [z(CscUtil.java:61)] set persist.sys.prev_omcnwcode : ARO
+2026-03-24 14:59:17.859-03:00 I/CscUtil: [d(CscUtil.java:7)] getCscUpdated
+2026-03-24 14:59:17.862-03:00 I/CscUtil: [r(CscUtil.java:25)] Previous SalesCode : ARO
+2026-03-24 14:59:17.864-03:00 I/CscUtil: [r(CscUtil.java:42)] Current SalesCode : ARO
+2026-03-24 14:59:17.866-03:00 I/CscUtil: [e(CscUtil.java:5)] getOmcInstall
+2026-03-24 14:59:17.879-03:00 I/CscUtil: [f(CscUtil.java:5)] getOmcMount
+2026-03-24 14:59:17.880-03:00 I/CscUtil: [f(CscUtil.java:5)] getOmcMount
+2026-03-24 14:59:17.883-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:218)] This is normal boot : CSC not update
+2026-03-24 14:59:18.141-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:235)] CSC Version changed
+2026-03-24 14:59:18.143-03:00 D/CscUtil: [i(CscUtil.java:29)] Result Code:200
+2026-03-24 14:59:18.159-03:00 I/CscSBrowser: [p(CscSBrowser.java:32)] isPackageInstalled : com.sec.android.app.sbrowser is installed
+2026-03-24 14:59:18.162-03:00 I/CscSBrowser: [p(CscSBrowser.java:32)] isPackageInstalled : com.sec.android.app.sbrowser is installed
+2026-03-24 14:59:18.166-03:00 I/CscUtil: [t(CscUtil.java:46)] isWifiOnly = false
+2026-03-24 14:59:18.188-03:00 I/CscFota: [a(R8$$SyntheticClass:13)] OmcVer: 5.1
+2026-03-24 14:59:18.194-03:00 I/CscUtil: [t(CscUtil.java:46)] isWifiOnly = false
+2026-03-24 14:59:18.199-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +q
+2026-03-24 14:59:18.201-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +s
+2026-03-24 14:59:18.203-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +g
+2026-03-24 14:59:18.205-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +r
+2026-03-24 14:59:18.209-03:00 E/CscUtil: [<init>(CscTgManager.java:510)] A package is not installed
+2026-03-24 14:59:18.214-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +F
+2026-03-24 14:59:18.217-03:00 E/CscUtil: [<init>(CscTgManager.java:510)] A package is not installed
+2026-03-24 14:59:18.221-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +k
+2026-03-24 14:59:18.224-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +f
+2026-03-24 14:59:18.228-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +G
+2026-03-24 14:59:18.229-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +m
+2026-03-24 14:59:18.231-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +x
+2026-03-24 14:59:18.232-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +L
+2026-03-24 14:59:18.234-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +w
+2026-03-24 14:59:18.235-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +O
+2026-03-24 14:59:18.237-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +v
+2026-03-24 14:59:18.239-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +a
+2026-03-24 14:59:18.241-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +J
+2026-03-24 14:59:18.243-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +y
+2026-03-24 14:59:18.245-03:00 I/CscTgManager: [<init>(CscTgManager.java:540)] makeWorkingList() +I
+2026-03-24 14:59:18.246-03:00 I/CscUpdateService: [l(CscUpdateService.java:9)] doUpdateForHomeFOTA start
+2026-03-24 14:59:18.326-03:00 I/CscUtil: [u(CscUtil.java:28)] wake lock acquire!
+2026-03-24 14:59:18.336-03:00 I/CscUpdateService: [onStartCommand(CscUpdateService.java:241)] This is HOME/FOTA boot : CSC is updated
+2026-03-24 14:59:18.343-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.q)
+2026-03-24 14:59:18.345-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.q)
+2026-03-24 14:59:18.347-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.s)
+2026-03-24 14:59:18.358-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.s)
+2026-03-24 14:59:18.360-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.g)
+2026-03-24 14:59:18.362-03:00 I/CscParser: [f(CscParser.java:55)] getCustomerPath : omc customer file can read
+2026-03-24 14:59:18.363-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.369-03:00 I/CscCamera: [a(CscCamera.java:2)] update start
+2026-03-24 14:59:18.372-03:00 I/CscCamera: [a(CscCamera.java:4)] <Multimedia> is not exist.
+2026-03-24 14:59:18.377-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.g)
+2026-03-24 14:59:18.379-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.r)
+2026-03-24 14:59:18.380-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.r)
+2026-03-24 14:59:18.382-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.F)
+2026-03-24 14:59:18.384-03:00 I/CscSBrowser: [a(CscSBrowser.java:1)] updateType is 4
+2026-03-24 14:59:18.385-03:00 I/CscUtil: [f(CscUtil.java:5)] getOmcMount
+2026-03-24 14:59:18.387-03:00 I/CscSBrowser: [a(CscSBrowser.java:2)] CscUtil.getOmcMount() :  0
+2026-03-24 14:59:18.389-03:00 E/CscSBrowser: [a(CscSBrowser.java:4)] updateForHomeFOTA() called.
+2026-03-24 14:59:18.397-03:00 E/CscSBrowser: [a(CscSBrowser.java:10)] isUserUnlockedfalse
+2026-03-24 14:59:18.401-03:00 E/CscSBrowser: [a(CscSBrowser.java:15)] updateForHomeFOTA : Phone does not ready to acquire Browser Provider
+2026-03-24 14:59:18.402-03:00 I/CscSBrowser: [s(CscSBrowser.java:17)] setDefaultBrowserPreference() : true
+2026-03-24 14:59:18.408-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.F)
+2026-03-24 14:59:18.409-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.k)
+2026-03-24 14:59:18.411-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.k)
+2026-03-24 14:59:18.413-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.f)
+2026-03-24 14:59:18.414-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.f)
+2026-03-24 14:59:18.416-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.G)
+2026-03-24 14:59:18.417-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.G)
+2026-03-24 14:59:18.424-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.m)
+2026-03-24 14:59:18.425-03:00 D/CscConnection: [a(CscConnection.java:20)] Update NWKINFO.
+2026-03-24 14:59:18.427-03:00 E/CscConnection: [a(CscConnection.java:25)] updateHomeFota calls
+2026-03-24 14:59:18.428-03:00 D/CscConnection: [f(CscConnection.java:28)] update force: falsesimSlot:-1
+2026-03-24 14:59:18.430-03:00 I/CscUtil: [k(CscUtil.java:21)] isCscUpdated userid : 0
+2026-03-24 14:59:18.433-03:00 I/CscUtil: [k(CscUtil.java:60)] isCscUpdated : true
+2026-03-24 14:59:18.442-03:00 I/CscUtil: [d(CscUtil.java:7)] getCscUpdated
+2026-03-24 14:59:18.444-03:00 I/CscUtil: [r(CscUtil.java:25)] Previous SalesCode : ARO
+2026-03-24 14:59:18.446-03:00 I/CscUtil: [r(CscUtil.java:42)] Current SalesCode : ARO
+2026-03-24 14:59:18.447-03:00 I/CscUtil: [o(CscUtil.java:21)] isNwCodeChanged(), slotId : 0
+2026-03-24 14:59:18.450-03:00 I/CscUtil: [g(CscUtil.java:7)] getOmcNwCodeUpdated
+2026-03-24 14:59:18.452-03:00 I/CscUtil: [o(CscUtil.java:53)] Previous OMC Network Code : ARO
+2026-03-24 14:59:18.453-03:00 I/CscUtil: [o(CscUtil.java:70)] Current OMC Network Code : ARO
+2026-03-24 14:59:18.535-03:00 I/CscParser: [e(CscParser.java:87)] getCustomerNwPath (0) : /optics/configs/carriers/single/ARO/conf
+2026-03-24 14:59:18.537-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.543-03:00 E/CscConnection: [f(CscConnection.java:241)] update : force falseslot 0
+2026-03-24 14:59:18.544-03:00 I/CscParser: [e(CscParser.java:87)] getCustomerNwPath (0) : /optics/configs/carriers/single/ARO/conf
+2026-03-24 14:59:18.546-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.552-03:00 D/CscConnection: [e(CscConnection.java:16)] parseNwkInfo
+2026-03-24 14:59:18.554-03:00 I/CscParser: [e(CscParser.java:87)] getCustomerNwPath (0) : /optics/configs/carriers/single/ARO/conf
+2026-03-24 14:59:18.555-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.563-03:00 E/CscConnection: [e(CscConnection.java:338)] [NwkInfo] [nwkname : Personal AR] [plmn : 72234] [codetype : null] [subsetcode : null] [spcode : null] [spname : null] [iccid : null] [simslot : 0]
+2026-03-24 14:59:18.565-03:00 E/CscConnection: [e(CscConnection.java:338)] [NwkInfo] [nwkname : Claro AR] [plmn : 72231] [codetype : null] [subsetcode : null] [spcode : null] [spname : null] [iccid : null] [simslot : 0]
+2026-03-24 14:59:18.567-03:00 E/CscConnection: [e(CscConnection.java:338)] [NwkInfo] [nwkname : Movistar AR] [plmn : 72207] [codetype : null] [subsetcode : null] [spcode : null] [spname : null] [iccid : null] [simslot : 0]
+2026-03-24 14:59:18.569-03:00 E/CscConnection: [e(CscConnection.java:338)] [NwkInfo] [nwkname : Personal AR] [plmn : 722341] [codetype : null] [subsetcode : null] [spcode : null] [spname : null] [iccid : null] [simslot : 0]
+2026-03-24 14:59:18.570-03:00 E/CscConnection: [e(CscConnection.java:338)] [NwkInfo] [nwkname : Claro AR] [plmn : 722310] [codetype : null] [subsetcode : null] [spcode : null] [spname : null] [iccid : null] [simslot : 0]
+2026-03-24 14:59:18.572-03:00 E/CscConnection: [e(CscConnection.java:338)] [NwkInfo] [nwkname : Movistar AR] [plmn : 722070] [codetype : null] [subsetcode : null] [spcode : null] [spname : null] [iccid : null] [simslot : 0]
+2026-03-24 14:59:18.603-03:00 E/CscConnection: [f(CscConnection.java:297)] send intent CSC_SHOW_SIM_PROFILE
+2026-03-24 14:59:18.604-03:00 E/CscConnection: [f(CscConnection.java:304)] update done
+2026-03-24 14:59:18.605-03:00 D/CscConnection: [a(CscConnection.java:33)] updateFOTA, HomeFOTAUpdateType
+2026-03-24 14:59:18.611-03:00 E/CscConnection: [a(CscConnection.java:65)] send intent FOTA_UPDATE
+2026-03-24 14:59:18.612-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.m)
+2026-03-24 14:59:18.613-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.x)
+2026-03-24 14:59:18.615-03:00 I/CscNetwork: [a(CscNetwork.java:31)] updateForHomeFOTA
+2026-03-24 14:59:18.617-03:00 I/CscParser: [f(CscParser.java:55)] getCustomerPath : omc customer file can read
+2026-03-24 14:59:18.619-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.625-03:00 I/CscParser: [f(CscParser.java:55)] getCustomerPath : omc customer file can read
+2026-03-24 14:59:18.627-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.633-03:00 E/CscParser: [g(CscParser.java:119)] getOthersPath : /system/csc/others.xml file exist
+2026-03-24 14:59:18.635-03:00 E/CscParser: [m(CscParser.java:163)] update(): /system/csc/others.xml file not exist
+2026-03-24 14:59:18.636-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.x)
+2026-03-24 14:59:18.638-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.L)
+2026-03-24 14:59:18.639-03:00 I/CscVoiceMail: [a(CscVoiceMail.java:32)] mNetCscCount 1
+2026-03-24 14:59:18.640-03:00 I/CscParser: [e(CscParser.java:87)] getCustomerNwPath (0) : /optics/configs/carriers/single/ARO/conf
+2026-03-24 14:59:18.642-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.648-03:00 I/CscVoiceMail: [f(CscVoiceMail.java:85)] Network numbers : 6
+2026-03-24 14:59:18.650-03:00 I/CscVoiceMail: [f(CscVoiceMail.java:217)] voiceMail num: 3
+2026-03-24 14:59:18.652-03:00 I/CscVoiceMail: [f(CscVoiceMail.java:305)] voiceNetName : Personal AR /  voiceTelNum : *555 /  voiceMailName : 
+2026-03-24 14:59:18.653-03:00 I/CscVoiceMail: [f(CscVoiceMail.java:305)] voiceNetName : Claro AR /  voiceTelNum : *2747 /  voiceMailName : 
+2026-03-24 14:59:18.655-03:00 I/CscVoiceMail: [f(CscVoiceMail.java:305)] voiceNetName : Movistar AR /  voiceTelNum : 555 /  voiceMailName : 
+2026-03-24 14:59:18.656-03:00 I/CscVoiceMail: [g(CscVoiceMail.java:5)] makeVoiceMailConfXML
+2026-03-24 14:59:18.660-03:00 I/CscVoiceMail: [g(CscVoiceMail.java:225)] Capa : 703 / byte Size : 703
+2026-03-24 14:59:18.665-03:00 D/CscVoiceMail: [a(CscVoiceMail.java:84)] [Voicemail] send broadcast CSC_UPDATE_VOICEMAIL_DONE
+2026-03-24 14:59:18.669-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.L)
+2026-03-24 14:59:18.670-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.w)
+2026-03-24 14:59:18.672-03:00 I/CscParser: [d(CscParser.java:55)] getCustomerNwPath : omc customer file can read
+2026-03-24 14:59:18.673-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.678-03:00 D/CscGPS: [a(CscGPS.java:25)] CSCGPS.updateParameters
+2026-03-24 14:59:18.679-03:00 D/CscGPS: [a(CscGPS.java:48)] supl host : null
+2026-03-24 14:59:18.680-03:00 D/CscGPS: [a(CscGPS.java:94)] SUPL Host is null or invalid
+2026-03-24 14:59:18.682-03:00 D/CscGPS: [a(CscGPS.java:117)] supl_ver : null
+2026-03-24 14:59:18.683-03:00 D/CscGPS: [a(CscGPS.java:156)] SUPL Ver is null or invalid
+2026-03-24 14:59:18.685-03:00 D/CscGPS: [a(CscGPS.java:179)] supl port : null
+2026-03-24 14:59:18.686-03:00 D/CscGPS: [a(CscGPS.java:202)] SUPL PORT is null or invalid
+2026-03-24 14:59:18.688-03:00 D/CscGPS: [a(CscGPS.java:224)] CSC don't have any AGPS value.
+2026-03-24 14:59:18.689-03:00 D/CscGPS: [a(CscGPS.java:237)] CSCGPS.GPSUpdate
+2026-03-24 14:59:18.693-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.w)
+2026-03-24 14:59:18.695-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.O)
+2026-03-24 14:59:18.696-03:00 I/CscParser: [f(CscParser.java:55)] getCustomerPath : omc customer file can read
+2026-03-24 14:59:18.698-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.703-03:00 I/CscWbAmr: [h(CscWbAmr.java:99)] Network numbers : 6
+2026-03-24 14:59:18.704-03:00 I/CscWbAmr: [h(CscWbAmr.java:202)] WB-AMR num: 1
+2026-03-24 14:59:18.705-03:00 I/CscWbAmr: [h(CscWbAmr.java:268)] netName  : default /  WB-AMR : off
+2026-03-24 14:59:18.708-03:00 I/CscWbAmr: [i(CscWbAmr.java:146)] File deletion successed.
+2026-03-24 14:59:18.716-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.O)
+2026-03-24 14:59:18.718-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.v)
+2026-03-24 14:59:18.720-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.v)
+2026-03-24 14:59:18.721-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.a)
+2026-03-24 14:59:18.723-03:00 W/CSCAudiomanager: [a(CscAudioManager.java:5)] CscAudioManager::update
+2026-03-24 14:59:18.725-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.a)
+2026-03-24 14:59:18.726-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.J)
+2026-03-24 14:59:18.727-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.J)
+2026-03-24 14:59:18.729-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.y)
+2026-03-24 14:59:18.730-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.y)
+2026-03-24 14:59:18.731-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:55)] mUpdatablesHomeFOTA start. (com.samsung.sec.android.application.csc.tgmanager.tg.I)
+2026-03-24 14:59:18.733-03:00 I/CscParser: [f(CscParser.java:55)] getCustomerPath : omc customer file can read
+2026-03-24 14:59:18.734-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.739-03:00 D/CSCSettings: [a(CscSettings.java:5)] updateForHomeFOTA (isNewCscEdtion): false with SalesCode: ARO
+2026-03-24 14:59:18.740-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:87)] mUpdatablesHomeFOTA done. (com.samsung.sec.android.application.csc.tgmanager.tg.I)
+2026-03-24 14:59:18.742-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.q)
+2026-03-24 14:59:18.743-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.q)
+2026-03-24 14:59:18.744-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.s)
+2026-03-24 14:59:18.746-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.s)
+2026-03-24 14:59:18.747-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.g)
+2026-03-24 14:59:18.748-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.g)
+2026-03-24 14:59:18.749-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.r)
+2026-03-24 14:59:18.751-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.r)
+2026-03-24 14:59:18.752-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.F)
+2026-03-24 14:59:18.753-03:00 I/CscSBrowser: [a(CscSBrowser.java:1)] updateType is 5
+2026-03-24 14:59:18.755-03:00 I/CscUtil: [f(CscUtil.java:5)] getOmcMount
+2026-03-24 14:59:18.756-03:00 I/CscSBrowser: [a(CscSBrowser.java:2)] CscUtil.getOmcMount() :  0
+2026-03-24 14:59:18.757-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.F)
+2026-03-24 14:59:18.759-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.k)
+2026-03-24 14:59:18.760-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.k)
+2026-03-24 14:59:18.761-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.f)
+2026-03-24 14:59:18.762-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.f)
+2026-03-24 14:59:18.763-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.G)
+2026-03-24 14:59:18.764-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.G)
+2026-03-24 14:59:18.765-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.m)
+2026-03-24 14:59:18.766-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.m)
+2026-03-24 14:59:18.767-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.x)
+2026-03-24 14:59:18.768-03:00 I/CscNetwork: [a(CscNetwork.java:22)] updateOmcNwForHomeFOTA
+2026-03-24 14:59:18.770-03:00 I/CscParser: [d(CscParser.java:55)] getCustomerNwPath : omc customer file can read
+2026-03-24 14:59:18.771-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.776-03:00 I/CscParser: [f(CscParser.java:55)] getCustomerPath : omc customer file can read
+2026-03-24 14:59:18.777-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.782-03:00 E/CscParser: [g(CscParser.java:119)] getOthersPath : /system/csc/others.xml file exist
+2026-03-24 14:59:18.784-03:00 E/CscParser: [m(CscParser.java:163)] update(): /system/csc/others.xml file not exist
+2026-03-24 14:59:18.785-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.x)
+2026-03-24 14:59:18.787-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.L)
+2026-03-24 14:59:18.789-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.L)
+2026-03-24 14:59:18.790-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.w)
+2026-03-24 14:59:18.791-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.w)
+2026-03-24 14:59:18.793-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.O)
+2026-03-24 14:59:18.795-03:00 I/CscParser: [d(CscParser.java:55)] getCustomerNwPath : omc customer file can read
+2026-03-24 14:59:18.796-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.801-03:00 I/CscWbAmr: [h(CscWbAmr.java:99)] Network numbers : 6
+2026-03-24 14:59:18.803-03:00 I/CscWbAmr: [h(CscWbAmr.java:202)] WB-AMR num: 1
+2026-03-24 14:59:18.805-03:00 I/CscWbAmr: [h(CscWbAmr.java:268)] netName  : default /  WB-AMR : off
+2026-03-24 14:59:18.807-03:00 I/CscWbAmr: [i(CscWbAmr.java:146)] File deletion successed.
+2026-03-24 14:59:18.813-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.O)
+2026-03-24 14:59:18.814-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.v)
+2026-03-24 14:59:18.816-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.v)
+2026-03-24 14:59:18.817-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.a)
+2026-03-24 14:59:18.819-03:00 W/CSCAudiomanager: [a(CscAudioManager.java:5)] CscAudioManager::update
+2026-03-24 14:59:18.820-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.a)
+2026-03-24 14:59:18.822-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.J)
+2026-03-24 14:59:18.823-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.J)
+2026-03-24 14:59:18.824-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.y)
+2026-03-24 14:59:18.826-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.y)
+2026-03-24 14:59:18.827-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:138)] mUpdatablesHomeFOTA for NwUpdate start. (com.samsung.sec.android.application.csc.tgmanager.tg.I)
+2026-03-24 14:59:18.829-03:00 I/CscParser: [f(CscParser.java:55)] getCustomerPath : omc customer file can read
+2026-03-24 14:59:18.831-03:00 D/CscParser: [m(CscParser.java:41)] update(): /optics/configs/carriers/single/ARO/conf/customer.xml file exist
+2026-03-24 14:59:18.836-03:00 D/CSCSettings: [i(CscSettings.java:31)] updateOmcNwForHomeFOTA (isNewCscEdtion): false with SalesCode: 
+2026-03-24 14:59:18.837-03:00 D/CscUpdateService: [run(R8$$SyntheticClass:170)] mUpdatablesHomeFOTA for NwUpdate done. (com.samsung.sec.android.application.csc.tgmanager.tg.I)
+2026-03-24 14:59:18.839-03:00 I/CscUtil: [f(CscUtil.java:5)] getOmcMount
+2026-03-24 14:59:18.840-03:00 I/CscUtil: [f(CscUtil.java:5)] getOmcMount
+2026-03-24 14:59:18.925-03:00 I/CscUpdateService: [run(R8$$SyntheticClass:282)] doUpdateForHomeFOTA finish
+2026-03-24 14:59:18.927-03:00 D/CscFileLog: [l(CscFileLog.java:18)] stop logging: homefota
+2026-03-24 14:59:18.928-03:00 I/CscFileLog: [m(CscFileLog.java:17)] trace FT values: 0
+2026-03-24 14:59:18.930-03:00 D/CscFileLog: [m(CscFileLog.java:108)] 30000DE.noisreV0TF
+2026-03-24 14:59:18.932-03:00 D/CscFileLog: [m(CscFileLog.java:108)] 2SDU.serutaeFbuSgifnoC_reganaMtramS0TF
+2026-03-24 14:59:18.933-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.llaCoediVouDtroppuS_tcatnoC0TF
+2026-03-24 14:59:18.935-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.llaCddAtroppuS_TV0TF
+2026-03-24 14:59:18.937-03:00 D/CscFileLog: [m(CscFileLog.java:108)] ORA.edoCselaS0TF
+2026-03-24 14:59:18.938-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.nOtluafeDrmabW_LIR0TF
+2026-03-24 14:59:18.940-03:00 D/CscFileLog: [m(CscFileLog.java:108)] ESLAF.misEtroppuS_LIR0TF
+2026-03-24 14:59:18.942-03:00 D/CscFileLog: [m(CscFileLog.java:108)] nital_remialcsid,uneMyBdewollAgnidroceR.gnidroceRgifnoC_llaCecioV0TF
+2026-03-24 14:59:18.944-03:00 D/CscFileLog: [m(CscFileLog.java:108)] zh05.rekcilFaremaC_aremaC0TF
+2026-03-24 14:59:18.945-03:00 D/CscFileLog: [m(CscFileLog.java:108)] ffo,segapetihw,segapetihw.rebmuNnwonknUroFredivorPcvSgifnoC_nommoC0TF
+2026-03-24 14:59:18.947-03:00 D/CscFileLog: [m(CscFileLog.java:108)] 441/227_goLpikS.sgoLroFelytSpOgifnoC_llaCecioV0TF
+2026-03-24 14:59:18.949-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.miSotuAhtiWtigiDgnihctaMdIrellaCnyDelbanE_tcatnoC0TF
+2026-03-24 14:59:18.950-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.egreMtroppuS_TV0TF
+2026-03-24 14:59:18.952-03:00 D/CscFileLog: [m(CscFileLog.java:108)] ANITNEGRA.yrtnuoC0TF
+2026-03-24 14:59:18.965-03:00 D/CscFileLog: [m(CscFileLog.java:108)] RA.OSIyrtnuoC0TF
+2026-03-24 14:59:18.966-03:00 D/CscFileLog: [m(CscFileLog.java:108)] EURT.draziWputeSroFpikSkcolBtroppuS_ifiW0TF
+2026-03-24 14:59:18.969-03:00 I/CscFileLog: [h(CscFileLog.java:51)] CSC versionName : 1.0.1.0

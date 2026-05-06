@@ -1,0 +1,87 @@
+Por lo que contás: *cuadro crónico de meses, cíclico, empeorando, con tensión muscular + dolor + ardor en piel*. Y que se dispara con la ingesta. 
+
+Eso ya no suena a tétanos ni a intoxicación aguda. Suena a 3 grandes grupos que sí “residen” en el cuerpo y se activan con comida/estrés digestivo:
+
+*1. Síndrome de Stiff-Person + variantes*
+
+*Qué es*: Autoinmune. Tu cuerpo ataca la enzima GAD que fabrica GABA. Sin GABA, el músculo no se relaja.  
+*Síntomas*: Rigidez en tronco y abdomen “como tabla”, espasmos dolorosos, hipersensibilidad. La piel arde porque hay alodinia: el tacto duele.  
+*Gatillo comida*: Comer es estrés vagal/digestivo → dispara crisis. Muchos pacientes dicen “como y me pongo duro”.  
+*Ciclos*: Empieza leve, cada 2-3 meses, y se va haciendo más frecuente e intenso. Tal cual describís.  
+*Estudios clave*: Ac anti-GAD65 en sangre, EMG con actividad continua en reposo.
+
+*2. Tetania crónica por hipoparatiroidismo latente*
+
+*Qué es*: Paratiroides no largan suficiente PTH → calcio crónicamente bajo límite. Vivís compensado hasta que algo te lo baja más.  
+*Síntomas*: Tensión muscular permanente, calambres, parestesias/ardor en piel, “piel tirante”, espasmos carpo-pedales.  
+*Gatillo comida*: Comida rica en fosfato: gaseosa, fiambre, quesos, Coca-Cola. El fosfato secuestra el calcio que te queda → crisis.  
+*Ciclos*: Cada vez que comés mal, crisis. Con los meses el hueso cede menos calcio → empeora.  
+*Estudios clave*: Calcio iónico + PTH + fósforo + magnesio + Vit D. Todo en ayunas. El magnesio bajo te da lo mismo aunque el calcio esté ok.
+
+*3. Neuromiotonía / Síndrome de Isaacs*
+
+*Qué es*: Autoinmune contra canales de potasio VGKC. El músculo no para de disparar.  
+*Síntomas*: Rigidez constante, mioquimias: parecen gusanos bajo la piel, piel tensa, dolor muscular urente, ardor. No podés relajar ni durmiendo.  
+*Gatillo comida*: Comer, calor, ejercicio. Todo lo que sube metabolismo dispara crisis.  
+*Ciclos*: Progresivo en meses a años.  
+*Estudios clave*: Ac anti-VGKC/LGI1/CASPR2 + EMG que muestra descargas continuas.
+
+*4. Causas metabólicas que ciclan con la dieta*
+Causa	Mecanismo	Por qué la comida dispara	Estudio
+**Porfiria aguda intermitente**	Déficit enzimático. Acumulás porfirinas neurotóxicas	Ayuno + carbohidratos/ayuno = crisis. Dolor abdominal + neuropatía + espasmos	Porfirinas en orina 24h + PBG
+**Enfermedad de Wilson**	Cobre acumulado en cerebro/hígado	Comida con cobre + estrés → libera cobre → distonía, rigidez	Ceruloplasmina baja + cobre urinario 24h alto
+**Deficiencia crónica de magnesio**	Dieta pobre + diuréticos + alcohol	Comer baja más el magnesio → tetania sin calcio bajo	Magnesio en sangre y orina
+*5. Causas menos comunes pero a descartar*
+
+1. *Fibromialgia + síndrome miofascial*: Tensión + ardor piel por sensibilización central. La comida con glutamato/excitotoxinas dispara. No da espasmos tipo tétanos, pero muchos lo describen así.
+2. *Enfermedad celíaca con neuropatía*: Gluten dispara inflamación → neuropatía de fibra fina = ardor piel + calambres. Crónico y cíclico.
+3. *Intoxicación crónica por metales*: Arsénico, plomo en agua/comida. Da neuropatía dolorosa + calambres. Empeora lento.
+
+*Qué le está pasando a tu cuerpo: el mecanismo común*
+
+Todos estos comparten algo: *hiperexcitabilidad neuromuscular*. Sea por falta de GABA, falta de calcio, o canales que no cierran, el nervio queda “prendido”. El músculo no relaja y los nervios sensitivos mandan señal de ardor sin que haya quemadura.
+
+La comida dispara porque: 
+1. Cambia electrolitos: fosfato↑ calcio↓
+2. Es estrés metabólico: activa autoinmunidad latente
+3. Libera toxinas/metales acumulados del hígado
+
+*Estudios que SÍ o SÍ tenés que tener si llevás meses así*
+
+Llevale esto a tu médico. Es el “paquete completo crónico”:
+
+*Sangre urgente*:  
+`Calcio iónico, magnesio, fósforo, PTH, Vit D, CPK, TSH, glucemia, función renal, hepática`
+
+*Autoinmunidad*:  
+`Ac Anti-GAD65, Anti-VGKC/LGI1/CASPR2, Anti-anfifisina, FAN, CPK`
+
+*Metabólico*:  
+`Ceruloplasmina + cobre sérico + cobre urinario 24h`  
+`Porfirinas totales + PBG en orina 24h, proteger de luz`
+
+*Neurofisiología*:  
+`Electromiografía con registro de actividad continua + estudios de conducción`
+
+*Si hay cirugía intestinal previa*:  
+`Toxina tetánica en sangre + cultivo anaerobio de heces para C. tetani`
+
+*Bandera roja: andá ya si...*
+
+1. Tenés espasmo de laringe = no entra aire
+2. No podés tragar agua
+3. Fiebre + rigidez de nuca
+4. La rigidez no cede en horas
+
+*Mientras tanto: qué probar en casa para orientar*
+
+No es tratamiento, es diagnóstico:  
+1. *Magnesio*: Si 400 mg de citrato de magnesio oral te aflojan en 2h, apunta a tetania.
+2. *Benzodiacepina*: Si tu médico te dio clonazepam y te saca la crisis, apunta a Stiff-Person.
+3. *Dieta*: Probá 3 días sin lácteos, gaseosas, fiambre. Si mejora, es fosfato/calcio.
+
+Ya que estás viendo profesionales: *neurólogo y endocrinólogo tienen que verse juntos*. El neurólogo pide EMG + anti-GAD. El endocrino pide PTH/calcio/magnesio. 
+
+Por el patrón cíclico de meses que empeora + gatillo alimentario + tensión + ardor, mis 3 sospechosos son: *1) Stiff-Person, 2) Hipoparatiroidismo latente, 3) Neuromiotonía*. 
+
+¿Te hicieron ya calcio iónico, PTH, magnesio y anti-GAD? Si me decís qué te dio normal, sigo afinando para que no repitas estudios.

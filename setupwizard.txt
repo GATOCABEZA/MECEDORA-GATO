@@ -1,0 +1,248 @@
+03-10 07:06:54:404 SetupWizardApplication : onCreate setConfiguration
+03-10 07:06:54:479 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-10 07:06:54:481 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-10 07:06:54:482 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-10 09:22:48:150 SetupWizardApplication : onCreate setConfiguration
+03-10 09:22:48:171 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-10 09:22:48:173 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-10 09:22:48:174 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-12 10:22:12:199 SetupWizardApplication : onCreate setConfiguration
+04-12 10:22:12:224 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-12 10:22:12:226 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-12 10:22:12:227 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-24 20:29:01:101 SetupWizardApplication : onCreate setConfiguration
+04-24 20:29:01:118 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-24 20:29:01:120 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-24 20:29:01:121 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+05-15 10:17:37:669 SetupWizardApplication : onCreate setConfiguration
+05-15 10:17:37:723 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+05-15 10:17:37:726 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+05-15 10:17:37:727 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+05-23 17:05:26:946 SetupWizardApplication : onCreate setConfiguration
+05-23 17:05:26:966 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+05-23 17:05:26:968 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+05-23 17:05:26:969 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+07-06 16:18:21:084 SetupWizardApplication : onCreate setConfiguration
+07-06 16:18:21:098 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+07-06 16:18:21:100 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+07-06 16:18:21:101 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+07-09 15:49:54:751 SetupWizardApplication : onCreate setConfiguration
+07-09 15:49:54:774 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+07-09 15:49:54:776 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+07-09 15:49:54:777 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+07-12 00:50:13:260 SetupWizardApplication : onCreate setConfiguration
+07-12 00:50:13:322 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+07-12 00:50:13:323 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+07-12 00:50:13:325 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+08-03 14:15:27:795 SetupWizardApplication : onCreate setConfiguration
+08-03 14:15:27:818 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+08-03 14:15:27:820 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+08-03 14:15:27:821 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+08-25 20:57:27:331 SetupWizardApplication : onCreate setConfiguration
+08-25 20:57:27:375 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+08-25 20:57:27:377 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+08-25 20:57:27:378 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+11-06 10:26:59:962 SetupWizardApplication : onCreate setConfiguration
+11-06 10:26:59:991 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+11-06 10:26:59:993 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+11-06 10:26:59:994 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+11-08 11:09:24:666 SetupWizardApplication : onCreate setConfiguration
+11-08 11:09:24:695 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+11-08 11:09:24:698 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+11-08 11:09:24:701 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+11-26 08:04:51:429 SetupWizardApplication : onCreate setConfiguration
+11-26 08:04:51:445 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+11-26 08:04:51:448 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+11-26 08:04:51:449 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+11-26 12:01:13:708 SetupWizardApplication : onCreate setConfiguration
+11-26 12:01:13:736 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+11-26 12:01:13:738 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+11-26 12:01:13:739 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+11-27 10:30:45:811 SetupWizardApplication : onCreate setConfiguration
+11-27 10:30:45:825 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+11-27 10:30:45:827 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+11-27 10:30:45:828 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+11-28 10:31:33:680 SetupWizardApplication : onCreate setConfiguration
+11-28 10:31:33:705 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+11-28 10:31:33:706 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+11-28 10:31:33:707 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+12-02 15:19:41:885 SetupWizardApplication : onCreate setConfiguration
+12-02 15:19:41:964 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+12-02 15:19:41:966 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+12-02 15:19:41:967 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+12-16 21:27:04:681 SetupWizardApplication : onCreate setConfiguration
+12-16 21:27:04:709 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+12-16 21:27:04:710 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+12-16 21:27:04:711 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+01-22 10:14:23:098 SetupWizardApplication : onCreate setConfiguration
+01-22 10:14:23:176 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+01-22 10:14:23:180 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+01-22 10:14:23:182 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-04 09:06:16:974 SetupWizardApplication : onCreate setConfiguration
+02-04 09:06:17:114 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-04 09:06:17:116 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-04 09:06:17:117 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-06 12:19:48:454 SetupWizardApplication : onCreate setConfiguration
+02-06 12:19:48:474 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-06 12:19:48:476 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-06 12:19:48:477 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-08 09:01:18:844 SetupWizardApplication : onCreate setConfiguration
+02-08 09:01:18:927 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-08 09:01:18:931 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-08 09:01:18:932 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-10 03:09:40:705 SetupWizardApplication : onCreate setConfiguration
+02-10 03:09:40:729 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-10 03:09:40:732 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-10 03:09:40:735 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-10 22:12:46:615 SetupWizardApplication : onCreate setConfiguration
+02-10 22:12:46:652 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-10 22:12:46:654 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-10 22:12:46:655 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-11 07:17:15:109 SetupWizardApplication : onCreate setConfiguration
+02-11 07:17:15:131 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-11 07:17:15:133 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-11 07:17:15:134 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-12 03:09:45:517 SetupWizardApplication : onCreate setConfiguration
+02-12 03:09:45:548 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-12 03:09:45:551 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-12 03:09:45:554 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-15 03:09:46:767 SetupWizardApplication : onCreate setConfiguration
+02-15 03:09:46:843 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-15 03:09:46:847 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-15 03:09:46:850 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-17 03:09:46:508 SetupWizardApplication : onCreate setConfiguration
+02-17 03:09:46:536 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-17 03:09:46:538 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-17 03:09:46:540 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-19 03:10:50:370 SetupWizardApplication : onCreate setConfiguration
+02-19 03:10:50:400 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-19 03:10:50:403 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-19 03:10:50:420 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-22 03:09:55:893 SetupWizardApplication : onCreate setConfiguration
+02-22 03:09:55:990 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-22 03:09:55:993 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-22 03:09:55:996 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+02-26 03:09:51:342 SetupWizardApplication : onCreate setConfiguration
+02-26 03:09:51:367 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+02-26 03:09:51:369 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+02-26 03:09:51:379 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-01 03:09:58:160 SetupWizardApplication : onCreate setConfiguration
+03-01 03:09:58:206 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-01 03:09:58:209 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-01 03:09:58:210 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-03 03:10:29:946 SetupWizardApplication : onCreate setConfiguration
+03-03 03:10:29:977 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-03 03:10:29:979 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-03 03:10:29:981 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-05 03:09:55:787 SetupWizardApplication : onCreate setConfiguration
+03-05 03:09:55:856 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-05 03:09:55:864 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-05 03:09:55:866 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-07 23:52:40:286 SetupWizardApplication : onCreate setConfiguration
+03-07 23:52:40:341 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-07 23:52:40:343 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-07 23:52:40:344 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-08 00:03:40:889 SetupWizardApplication : onCreate setConfiguration
+03-08 00:03:41:034 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-08 00:03:41:037 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-08 00:03:41:039 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-10 03:09:49:396 SetupWizardApplication : onCreate setConfiguration
+03-10 03:09:49:424 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-10 03:09:49:426 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-10 03:09:49:428 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-12 03:09:51:306 SetupWizardApplication : onCreate setConfiguration
+03-12 03:09:51:330 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-12 03:09:51:332 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-12 03:09:51:334 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-15 03:09:51:480 SetupWizardApplication : onCreate setConfiguration
+03-15 03:09:51:503 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-15 03:09:51:505 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-15 03:09:51:507 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-17 03:09:56:577 SetupWizardApplication : onCreate setConfiguration
+03-17 03:09:56:598 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-17 03:09:56:601 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-17 03:09:56:602 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-24 15:12:02:799 SetupWizardApplication : onCreate setConfiguration
+03-24 15:12:03:242 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-24 15:12:03:244 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-24 15:12:03:246 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-26 03:09:54:252 SetupWizardApplication : onCreate setConfiguration
+03-26 03:09:54:289 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-26 03:09:54:292 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-26 03:09:54:295 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-29 03:09:43:606 SetupWizardApplication : onCreate setConfiguration
+03-29 03:09:43:647 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-29 03:09:43:650 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-29 03:09:43:651 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+03-31 03:09:46:855 SetupWizardApplication : onCreate setConfiguration
+03-31 03:09:46:881 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+03-31 03:09:46:884 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+03-31 03:09:46:885 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-02 03:09:59:462 SetupWizardApplication : onCreate setConfiguration
+04-02 03:09:59:501 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-02 03:09:59:512 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-02 03:09:59:514 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-08 04:17:46:911 SetupWizardApplication : onCreate setConfiguration
+04-08 04:17:46:952 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-08 04:17:46:955 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-08 04:17:46:957 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-09 03:09:52:094 SetupWizardApplication : onCreate setConfiguration
+04-09 03:09:52:159 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-09 03:09:52:162 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-09 03:09:52:164 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-12 03:09:54:448 SetupWizardApplication : onCreate setConfiguration
+04-12 03:09:54:488 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-12 03:09:54:491 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-12 03:09:54:493 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-14 03:09:53:634 SetupWizardApplication : onCreate setConfiguration
+04-14 03:09:53:659 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-14 03:09:53:661 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-14 03:09:53:663 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-16 03:09:48:086 SetupWizardApplication : onCreate setConfiguration
+04-16 03:09:48:110 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-16 03:09:48:113 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-16 03:09:48:115 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-19 03:09:44:718 SetupWizardApplication : onCreate setConfiguration
+04-19 03:09:44:749 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-19 03:09:44:753 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-19 03:09:44:755 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-21 03:09:44:555 SetupWizardApplication : onCreate setConfiguration
+04-21 03:09:44:590 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-21 03:09:44:593 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-21 03:09:44:594 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-23 03:09:55:422 SetupWizardApplication : onCreate setConfiguration
+04-23 03:09:55:450 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-23 03:09:55:453 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-23 03:09:55:454 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-26 03:09:46:761 SetupWizardApplication : onCreate setConfiguration
+04-26 03:09:46:796 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-26 03:09:46:799 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-26 03:09:46:801 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+04-26 10:38:16:127 SetupWizardApplication : onCreate setConfiguration
+04-26 10:38:16:172 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+04-26 10:38:16:174 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+04-26 10:38:16:176 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+05-03 16:28:36:678 SetupWizardApplication : onCreate setConfiguration
+05-03 16:28:36:694 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+05-03 16:28:36:695 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+05-03 16:28:36:697 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+05-05 10:22:34:709 SetupWizardApplication : onCreate setConfiguration
+05-05 10:22:34:725 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+05-05 10:22:34:727 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+05-05 10:22:34:729 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+05-05 10:36:04:938 SetupWizardApplication : onCreate setConfiguration
+05-05 10:36:05:112 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+05-05 10:36:05:114 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+05-05 10:36:05:115 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+05-05 11:22:09:718 SetupWizardApplication : onCreate setConfiguration
+05-05 11:22:09:821 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+05-05 11:22:09:823 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+05-05 11:22:09:824 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+05-05 16:41:43:748 SetupWizardApplication : onCreate setConfiguration
+05-05 16:41:43:774 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+05-05 16:41:43:776 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+05-05 16:41:43:781 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
+05-06 05:27:07:124 SetupWizardApplication : onCreate setConfiguration
+05-06 05:27:07:198 SecSetupWizardIntentReceiver : onReceive(): android.intent.action.BOOT_COMPLETED
+05-06 05:27:07:200 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <SPR> : false
+05-06 05:27:07:202 Utils :  CscFeature_SetupWizard_ConfigStepSequenceType contains <DSH> : false
